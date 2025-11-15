@@ -91,16 +91,8 @@ DeepMind
 Anthropic
 Claude
 
-苹果
-Apple
-iPhone
-iPad
-Mac
-iOS
-Vision Pro
-蒂姆·库克
-
 ASML
+阿斯麦
 
 人工智能
 AI
